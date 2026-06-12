@@ -1,0 +1,15 @@
+.ipynb_checkpoints/
+.python-version
+uv.lock
+.*.swp
+
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
